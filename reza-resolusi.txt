@@ -1,4 +1,4 @@
 REZA RESOLUSI
 - Konsisten untuk membuat web
 - Membuat platform untuk pengelolaan data
-- Membuat platform e-commerce
+- Membuat vlogs
